@@ -1,5 +1,4 @@
 # NMSLBot
-=====
 
 基于Mirai的嘴臭机器人，嘴臭语句对接[https://s.nmsl8.club/](https://s.nmsl8.club/)，使用了graia的接口(原python-mirai)[https://github.com/GraiaProject](https://github.com/GraiaProject)。
 
